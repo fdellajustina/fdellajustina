@@ -9,6 +9,5 @@
 - 🌱 I’m currently learning Data Science
 
 
-[![Breno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brenofandrade)](https://github.com/anuraghazra/github-readme-stats)
+[![Fernanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=fdellajustina)](https://github.com/anuraghazra/github-readme-stats)
 
--->
